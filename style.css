@@ -42,3 +42,14 @@ th{
     background-color: #4caf50;
     color:white;
 }
+
+.action-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+}
+.balance {
+    text-align: center;
+    font-weight: bold;
+    margin: 10px 0;
+}
